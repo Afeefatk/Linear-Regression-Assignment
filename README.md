@@ -5,7 +5,6 @@
 ## Table of Contents
 * [Python Notebook](#Python)
 * [Subjective Questions PDF](#subjective-questions)
-*
 
 <!-- You can include any other section that is pertinent to your problem -->
 
